@@ -4,5 +4,4 @@ a remixed version of [Scratch Nextbots](https://scratch.mit.edu/projects/9277264
 - [Play the game on Turbowarp (recommended for low-end devices)](https://turbowarp.org/1193294047)
 - [Play the game on Scratch](https://scratch.mit.edu/projects/1193294047/)
 - Play the game using [this link](https://grosioso.github.io/scratch-nextbots-se). I dont care if it gets blocked anyways ;)
-
-There are also binary packaged versions for Windows, Mac and Linux that can be played offline, or if you're a bit lazy then just download the index.html file inside the repository. Those versions can be downloaded inside the releases.
+- You can also download the offline version in the releases tab.
